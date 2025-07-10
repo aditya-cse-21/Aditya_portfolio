@@ -1,10 +1,10 @@
 # 🌟 Personal Portfolio Website
 
-This is the source code for my **personal developer portfolio website**, built to showcase my skills, projects, and experience as a frontend developer and Computer Science engineering student. It serves as my digital resume, project showcase, and contact platform.
+This is the source code for my **personal portfolio website**, built to showcase my skills, projects, and experience as a frontend developer and Computer Science engineering student. It serves as my digital resume, project showcase, and contact platform.
 
 ## 🔗 Live Preview
 
-🌐 [Click here to view the live website]()
+🌐 [Click here to view the live website](https://aditya-portfolio-opal-tau.vercel.app/)
 
 ---
 
