@@ -30,7 +30,7 @@ import IIMTlogo from './assets/education_logo/iimt-logo.png';
 
 
 // Project Section Logo's
-import doctor_appointment from './assets/work_logo/doctor_appointment.png';
+import doctor_appointment from './assets/work_logo/Doctor_appointment.png';
 import Employee_mgmt_system from './assets/work_logo/Employee_mgmt_system.png';
 import job_hunt from './assets/work_logo/Job_hunt.png';
 import Real_estate from './assets/work_logo/Real_estate.png';
