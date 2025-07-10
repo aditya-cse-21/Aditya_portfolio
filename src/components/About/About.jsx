@@ -66,10 +66,10 @@ const About = () => {
             />
           </h3>
           <p className="text-base sm:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am a full‑stack developer skilled in both front‑end and back‑end development. I specialize in the MERN stack and other modern technologies to create seamless user experiences and efficient solutions.
+            I’m a full-stack web developer skilled in the MERN stack and modern frontend tools. Currently working on full-stack projects and looking for an opportunity to apply my skills.
           </p>
           <a
-            href="https://drive.google.com/file/d/1x5TQ-yBgYrQCJiFwhKPeBtW3Hyu6UZyG/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/1BnTmn2saqAfPfpnn-D7JrBSqoUBqUCpT/view?usp=drivesdk"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition-transform duration-300 hover:scale-105"
