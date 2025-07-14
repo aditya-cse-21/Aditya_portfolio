@@ -148,7 +148,7 @@ export const SkillsInfo = [
       school: "IIMT College of Engineering, Greater Noida, Uttar Pradesh",
       date: "Oct 2022 - june 2026",
       grade: "8.1 CGPA(till 5th sem)",
-      desc: "I am doing my Bachelor's degree in Computer Science and engMyineering from IIMT College of Engineering, Greater Noida, Uttar Pradesh. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development.",
+      desc: "I am doing my Bachelor's degree in Computer Science and engineering from IIMT College of Engineering, Greater Noida, Uttar Pradesh. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development.",
       degree: "B.Tech (Computer Science and Engineering)",
     }
   ];
