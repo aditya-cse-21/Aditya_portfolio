@@ -161,14 +161,14 @@ const Navbar = () => {
               >
                 <FaLinkedin size={24} />
               </a>
-              <a
+{/*               <a
                 href="https://twitter.com/_adityaa21"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"
               >
                 <FaTwitter size={24} />
-              </a>
+              </a> */}
             </div>
           </ul>
         </div>
