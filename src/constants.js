@@ -123,6 +123,7 @@ export const SkillsInfo = [
       "REST API Integration",
      ],
     },
+    {
       id: 1,
       img: cognifyz_techonologies_logo,
       role: "Web Development Intern",
