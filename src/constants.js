@@ -24,7 +24,7 @@ import vercelLogo from './assets/tech_logo/vercel.png';
 // Experience Section Logo's
 import cognifyz_techonologies_logo from './assets/company_logo/cognifyz_techonologies_logo.jpeg';
 import CodSoft_logo from './assets/company_logo/CodSoft_logo.jpeg';
-import triostack_logo from './assets/company_logo/triostack.jpeg';
+import triostack from './assets/company_logo/triostack.jpeg';
 // Education Section Logo's
 import IIMTlogo from './assets/education_logo/iimt-logo.png';
 
@@ -106,7 +106,7 @@ export const SkillsInfo = [
     {
       {
       id: 0,
-      img: triostack_logo,
+      img: triostack,
       role: Full Stack Developer Intern",
       company: "Triostack technologies private limited",
       date: "July-2025 - present",
