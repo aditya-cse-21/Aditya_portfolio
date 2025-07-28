@@ -104,14 +104,13 @@ export const SkillsInfo = [
 
   export const experiences = [
     {
-      {
       id: 0,
       img: triostack,
-      role: Full Stack Developer Intern",
+      role: "Full Stack Developer Intern",
       company: "Triostack technologies private limited",
       date: "July-2025 - present",
       desc: "Working as a Full Stack Developer Intern, gaining hands-on experience in building real-world web applications using React.js, Node.js, Express.js, and MongoDB. Collaborated with the team to develop responsive UIs, integrate REST APIs, and implement authentication features.",
-     skills: [
+      skills: [
       "React.js",
       "Node.js",
       "Express.js",
