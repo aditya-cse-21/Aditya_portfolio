@@ -103,7 +103,7 @@ const About = () => {
       </div>
 
       {/* Roles / Services */}
-      <div className="mt-20">
+{/*       <div className="mt-20">
         <h2 className="text-left text-2xl font-bold mb-8 bg-gradient-to-r from-purple-900 via-white to-purple-700 text-transparent bg-clip-text">
           The Roles I am Looking For –
         </h2>
@@ -119,7 +119,7 @@ const About = () => {
             </motion.div>
           ))}
         </div>
-      </div>
+      </div> */} 
     </section>
   );
 };
