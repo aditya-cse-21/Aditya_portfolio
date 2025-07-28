@@ -24,7 +24,7 @@ import vercelLogo from './assets/tech_logo/vercel.png';
 // Experience Section Logo's
 import cognifyz_techonologies_logo from './assets/company_logo/cognifyz_techonologies_logo.jpeg';
 import CodSoft_logo from './assets/company_logo/CodSoft_logo.jpeg';
-
+import triostack_logo from './assets/company_logo/triostack.jpeg';
 // Education Section Logo's
 import IIMTlogo from './assets/education_logo/iimt-logo.png';
 
@@ -104,7 +104,27 @@ export const SkillsInfo = [
 
   export const experiences = [
     {
+      {
       id: 0,
+      img: triostack_logo,
+      role: Full Stack Developer Intern",
+      company: "Triostack technologies private limited",
+      date: "July-2025 - present",
+      desc: "Working as a Full Stack Developer Intern, gaining hands-on experience in building real-world web applications using React.js, Node.js, Express.js, and MongoDB. Collaborated with the team to develop responsive UIs, integrate REST APIs, and implement authentication features.",
+     skills: [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "JavaScript",
+      "Tailwind CSS",
+      "HTML",
+      "CSS",
+      "Git & GitHub",
+      "REST API Integration",
+     ],
+    },
+      id: 1,
       img: cognifyz_techonologies_logo,
       role: "Web Development Intern",
       company: "Cognifyz Technologies",
@@ -123,7 +143,7 @@ export const SkillsInfo = [
       ],
     },
     {
-      id: 1,
+      id: 2,
       img: CodSoft_logo,
       role: "Web Developer Intern",
       company: "CodSoft",
