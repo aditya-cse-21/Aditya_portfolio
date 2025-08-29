@@ -53,7 +53,7 @@ const About = () => {
               text={[
                 'Frontend Developer',
                 'Fullstack Developer',
-                'UI/UX Designer',
+                'Software Developer',
                 'Coder',
               ]}
               speed={100}
@@ -66,7 +66,7 @@ const About = () => {
             />
           </h3>
           <p className="text-base sm:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-           "Full-stack web developer skilled in the MERN stack and modern frontend technologies. Currently working on full-stack projects and eager to apply my skills to build scalable, user-focused applications."
+           Full-stack web developer skilled in the MERN stack and modern frontend technologies. Currently working on full-stack projects and eager to apply my skills to build scalable, user-focused applications.
           </p>
           <a
             href="https://drive.google.com/file/d/1BnTmn2saqAfPfpnn-D7JrBSqoUBqUCpT/view?usp=drivesdk"
