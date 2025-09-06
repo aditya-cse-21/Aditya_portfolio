@@ -174,8 +174,48 @@ export const SkillsInfo = [
   ];
   
   export const projects = [
-    {
+     {
       id: 0,
+      title: "OmnixAI",
+      description:
+        "OmnixAI is a comprehensive AI-SaaS platform that offers various creative tools including image generation, background removal, object removal, article writing, resume review, and more.",
+      image: Omnixai,
+      tags: ["Node.js", "Express", "PostgreSQL", "React JS", "React-Router","Gemini API","Cloudinary","Clickdrop API","Clerk Auth"],
+      github: "https://github.com/aditya-cse-21/OmnixAI",
+      webapp: "https://omnix-ai-tau.vercel.app/",
+    },
+    {
+      id: 1,
+      title: "HomeStay",
+      description:
+        "HomeStay is a full-stack hotel booking platform with advanced search & filtering, real-time booking, secure Stripe payments, and role-based authentication.Includes a hotel owner dashboard for property management, mobile-first responsive design, and a modern user-friendly interface.",
+      image: Homestay,
+      tags: ["Node.js", "Express", "MongoDB", "React JS", "React-Router","Cloudinary","nodemailer","Stripe","Clerk Auth"],
+      github: "https://github.com/aditya-cse-21/HomeStay",
+      webapp: "https://home-stay-one.vercel.app/",
+    },
+    {
+      id: 2,
+      title: "ShowHive",
+      description:
+        "ShowHive is a full-stack movie booking platform with real-time search, seat selection, secure payments, and admin management. Built using React, Node.js, Express, MongoDB, Tailwind CSS, and Clerk authentication.",
+      image: Showhive,
+      tags: ["Node.js", "Express", "MongoDB", "React JS", "React-Router","Cloudinary","nodemailer","Stripe","Clerk Auth"],
+      github: "https://github.com/aditya-cse-21/ShowHive",
+      webapp: "https://show-hive-ten.vercel.app/",
+    },
+    {
+      id: 3,
+      title: "Quick_Blog",
+      description:
+        " QuickBlog is a modern blogging platform with AI integration, featuring a sleek UI, admin panel, and real-time content management. Built using React, Tailwind CSS, Node.js, Express, MongoDB, and Google Gemini AI.",
+      image: Quickblog,
+      tags: ["Node.js", "Express", "MongoDB", "React JS", "React-Router","Gemini API"],
+      github: "https://github.com/aditya-cse-21/quick_blog",
+      webapp: "https://quick-blog-sncf.vercel.app/",
+    },
+    {
+      id: 4,
       title: "Buyzaar",
       description:
         "Buyzaar is a responsive e-commerce frontend built using React.js, Redux, CSS3, and Vite. It features a modern clothing store interface with product listings, filtering, and cart functionality. React Router was used for smooth navigation between sections, while Redux efficiently manages the application state. The UI was crafted using custom CSS with a focus on clean layout, responsiveness, and component reusability. Buyzaar showcases strong frontend architecture and real-world application structure, making it ideal for user-centric shopping experiences.",
@@ -185,7 +225,7 @@ export const SkillsInfo = [
       webapp: "https://buyzaar-olive.vercel.app/",
     },
     {
-      id: 1,
+      id: 5,
       title: "Real Estate Website",
       description:
         "The platform allows users to explore property listings with smooth navigation between different sections like Home, Listings, and Contact. It features a clean, mobile-first user interface built with Tailwind CSS, emphasizing modern layout design and accessibility. The project follows a modular component structure and showcases core frontend skills like routing, UI design, and responsive development tailored for real-world use.",
@@ -194,35 +234,6 @@ export const SkillsInfo = [
       github: "https://github.com/aditya-cse-21/Estate",
       webapp: "https://estate-nine-psi.vercel.app/",
     },
-    {
-      id: 2,
-      title: "Doctor Appointment",
-      description:
-        "Doctor Appointment Website is a full-stack web application currently under development using the MERN stack (MongoDB, Express.js, React.js, Node.js). The platform aims to streamline the process of booking appointments with doctors by allowing patients to register, browse available doctors, check schedules, and book time slots. It will feature user authentication, role-based access for patients and doctors, and a real-time appointment management system. The frontend is being built with React and Tailwind CSS for a responsive and clean UI, while the backend will handle APIs, user data, and appointment logic using Node.js and MongoDB. I am actively working on this project and will be sharing the live demo and GitHub repository soon.",
-      image: doctor_appointment,
-      tags: ["React JS", "API","Node JS", "Expess JS", "Mongo DB", "HTML", "CSS", "JavaScript"],
-      github: "",
-      webapp: "",
-    },
-    {
-      id: 3,
-      title: "Job Hunt",
-      description:
-        "Job Hunt Website is a full-stack job search platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js) designed to connect job seekers with relevant opportunities efficiently. The application allows users to register, search and filter job listings, view job details, and apply directly through the platform. Employers can post jobs and manage applications through a secure, role-based access system. The frontend offers a responsive, user-friendly interface developed with React and Tailwind CSS, while the backend manages user authentication, job data, and application tracking using Express and MongoDB. The project is currently in development and aims to replicate real-world job portal functionality.",
-      image: job_hunt,
-      tags: ["React JS", "API","Node JS", "Expess JS", "Mongo DB", "HTML", "CSS", "JavaScript"],
-      github: "",
-      webapp: "",
-    },
-    {
-      id: 4,
-      title: "Employee Management System",
-      description:
-        "Employee Management System is a frontend web application designed to manage employee records efficiently, built using React.js, CSS3, and React Router. It allows users to add, edit, view, and delete employee details in a structured and user-friendly interface. The application uses component-based architecture and routing for smooth navigation between views like dashboard, employee list, and forms. With a clean and responsive UI, the project demonstrates core frontend concepts such as form handling, state management, and conditional rendering in real-world scenarios.",
-      image: Employee_mgmt_system,
-      tags: ["HTML", "CSS", "JavaScript", "React JS", "Local Storage"],
-      github: "",
-      webapp: "",
-    },
+  
    
   ];  
