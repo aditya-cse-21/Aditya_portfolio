@@ -123,43 +123,9 @@ export const SkillsInfo = [
       "Git & GitHub",
       "REST API Integration",
      ],
-    },
-    {
-      id: 1,
-      img: cognifyz_techonologies_logo,
-      role: "Web Development Intern",
-      company: "Cognifyz Technologies",
-      date: "May 2025 - June 2025",
-      desc: "Developed dynamic and scalable web applications using the MERN stack, handling both frontend and backend development. Collaborated with cross-functional teams to build responsive UI, implement RESTful APIs, and optimize application performance in an agile environment.",
-      skills: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React JS",
-        "Express JS",
-        "Node JS",
-        "Tailwind CSS",
-        "MongoDb",
-        "Redux",
-      ],
-    },
-    {
-      id: 2,
-      img: CodSoft_logo,
-      role: "Web Developer Intern",
-      company: "CodSoft",
-      date: "April-2025 - May 2025",
-      desc: "Contributed to innovative projects as a Web Developer Intern, leading both frontend and backend development using technologies such as HTML, CSS, JavaScript, Bootstrap, and ReactJS. Worked closely with the team to deliver responsive, high-performance web applications and improve user experience through seamless integration of various technologies.",
-      skills: [
-        "ReactJS",
-        "Redux",
-        "JavaScript",
-        "Tailwind CSS",
-        "HTML",
-        "CSS",
-      ],
-    },
-  ];
+    }
+   ]
+   
   
   export const education = [
     
