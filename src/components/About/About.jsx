@@ -65,7 +65,7 @@ const About = () => {
             />
           </h3>
           <p className="text-base sm:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-           i am a Full-stack web developer skilled in the MERN stack and modern frontend technologies. Currently working on full-stack projects and eager to apply my skills to build scalable, user-focused applications.
+           i am a Full-stack developer skilled in the MERN Stack Development. Currently working on full-stack projects and eager to apply my skills to build scalable, user-focused applications.
           </p>
           <a
             href="https://drive.google.com/file/d/16bzZmJXnMn85nIzg37AGXK59dfnxmgSk/view?usp=drivesdk"
