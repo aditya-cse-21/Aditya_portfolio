@@ -109,7 +109,7 @@ export const SkillsInfo = [
       img: triostack,
       role: "Full Stack Developer Intern",
       company: "Triostack technologies private limited",
-      date: "July-2025 - present",
+      date: "Dec-2025 - present",
       desc: "Working as a Full Stack Developer Intern, gaining hands-on experience in building real-world web applications using React.js, Node.js, Express.js, and MongoDB. Collaborated with the team to develop responsive UIs, integrate REST APIs, and implement authentication features.",
       skills: [
       "React.js",
@@ -134,7 +134,7 @@ export const SkillsInfo = [
       img: IIMTlogo,
       school: "IIMT College of Engineering, Greater Noida, Uttar Pradesh",
       date: "Oct 2022 - june 2026",
-      grade: "8.1 CGPA(till 5th sem)",
+      grade: "8.16 CGPA",
       desc: "I am doing my Bachelor's degree in Computer Science and engineering from IIMT College of Engineering, Greater Noida, Uttar Pradesh. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development.",
       degree: "B.Tech (Computer Science and Engineering)",
     }
