@@ -68,7 +68,7 @@ const About = () => {
            i am a Full-stack developer skilled in the MERN Stack Development. Currently working on full-stack projects and eager to apply my skills to build scalable, user-focused applications.
           </p>
           <a
-            href="https://drive.google.com/file/d/16bzZmJXnMn85nIzg37AGXK59dfnxmgSk/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/1VV9FisLhHIA9be8gfPGzsOF1aHH_xuO4/view?usp=drivesdk"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition-transform duration-300 hover:scale-105"
